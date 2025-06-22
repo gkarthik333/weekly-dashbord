@@ -47,18 +47,18 @@ Product Focus: Mediclaim's dominance suggests doubling down on this strength
 Pipeline Health: Strong quality opportunity stage indicates good lead qualification
 
 # 🛠 Tools & Technologies
-Power BI (DAX measures, interactive visuals)
-Excel (initial data structuring)
+- Power BI (DAX measures, interactive visuals)
+- Excel (initial data structuring)
 
 
 # 📈 Skills Demonstrated
-Sales KPI development
-Executive performance benchmarking
-Opportunity pipeline analysis
-Target vs. achievement visualization
-Interactive dashboard design
+- Sales KPI development
+- Executive performance benchmarking
+- Opportunity pipeline analysis
+- Target vs. achievement visualization
+- Interactive dashboard design
 
 # 👨‍💻 Author
-[Your Name] - Sales Operations Analyst
+- Karthik G k
 📧 [Your Email]
 🔗 [Your LinkedIn]
