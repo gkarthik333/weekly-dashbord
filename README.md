@@ -1,4 +1,4 @@
-# <h1 align="center">Weekly Branch Sales Dashboard - Power BI Analysis</h1>
+# <h1 align="center">Weekly Branch Sales Dashboard </h1>
 # Project Overview
 This Power BI dashboard provides comprehensive insights into branch sales performance, tracking key metrics across new business, cross-sell, and renewal categories. The visualization highlights individual account executive performance, product distribution, revenue stages, and top opportunities. By analyzing achievement against targets, invoice generation, and meeting productivity, stakeholders can make data-driven decisions to optimize sales strategies and resource allocation.
 
