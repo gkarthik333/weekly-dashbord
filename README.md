@@ -40,11 +40,11 @@ Current: Fire (500K), EL-Group Medical (400K)
 Open Pipeline: EL Group (400K), DB-Mega Policy (400K)
 
 # ✅ Findings & Recommendations
-Renewals Overperformance: Exceeded target by 31.5% - consider reallocating some renewal resources to new business
-New Business Gap: Only 24.7% of target achieved - needs focus and strategy review
-Top Performers: Gilbert (invoices) and Abhinav (meetings) should mentor others
-Product Focus: Mediclaim's dominance suggests doubling down on this strength
-Pipeline Health: Strong quality opportunity stage indicates good lead qualification
+- Renewals Overperformance: Exceeded target by 31.5% - consider reallocating some renewal resources to new business
+- New Business Gap: Only 24.7% of target achieved - needs focus and strategy review
+- Top Performers: Gilbert (invoices) and Abhinav (meetings) should mentor others
+- Product Focus: Mediclaim's dominance suggests doubling down on this strength
+- Pipeline Health: Strong quality opportunity stage indicates good lead qualification
 
 # 🛠 Tools & Technologies
 - Power BI (DAX measures, interactive visuals)
