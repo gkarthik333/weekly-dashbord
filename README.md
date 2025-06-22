@@ -16,13 +16,7 @@ This Power BI dashboard provides comprehensive insights into branch sales perfor
 
 
 # 💠 Data Preparation
-Data loading from CRM and financial systems
-Handling missing values in opportunity records
-Standardizing currency values and date formats
-Creating calculated measures for:
-Target achievement percentages
-Pipeline conversion rates
-Executive performance ratios
+
 
 # 💠 Dashboard Components
 ## 🎯 Sales Performance Overview
