@@ -60,5 +60,5 @@ Open Pipeline: EL Group (400K), DB-Mega Policy (400K)
 
 # 👨‍💻 Author
 - Karthik G k
-📧 [Your Email]
-🔗 [Your LinkedIn]
+- 📧 [Your Email]
+- 🔗 [Your LinkedIn]
